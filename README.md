@@ -1,0 +1,3 @@
+-- HammerTime: one button (and one keybind) that repairs your most damaged
+-- piece with the Thalassian Master Repair Hammer. Press it repeatedly to
+-- work through every damaged slot.

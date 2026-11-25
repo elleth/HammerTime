@@ -1,0 +1,7 @@
+## Interface: 120001
+## Title: HammerTime
+## Notes: One button / one keybind that repairs your most damaged piece with the Thalassian Master Repair Hammer.
+## Version: 0.1.0
+## SavedVariables: HammerTimeDB
+
+HammerTime.lua
